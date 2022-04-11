@@ -1,6 +1,6 @@
 {
   "name": "@aliuq/eslint-config-monorepo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "packageManager": "pnpm@6.32.6",
   "license": "MIT",
