@@ -12,7 +12,16 @@ module.exports = {
       node: { extensions: ['.js', '.jsx', '.mjs', '.ts', '.tsx', '.d.ts'] },
     },
   },
-  overrides: basic.overrides,
+  overrides: [
+    ...basic.overrides,
+    {
+      files: ['*.json', '*.json5', '*.jsonc'],
+      parser: 'jsonc-eslint-parser',
+      rules: {
+        'jsonc/comma-dangle': ['error', 'never'],
+      },
+    },
+  ],
   rules: {
     'import/named': 'off',
 

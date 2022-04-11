@@ -2,6 +2,7 @@
   "name": "@aliuq/eslint-config-monorepo",
   "version": "0.0.1",
   "private": true,
+  "packageManager": "pnpm@6.32.6",
   "license": "MIT",
   "author": "LiuQ <liuq@bilishare.com> (https://github.com/aliuq/)",
   "scripts": {
