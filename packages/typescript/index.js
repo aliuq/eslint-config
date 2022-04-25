@@ -12,6 +12,7 @@ module.exports = {
       node: { extensions: ['.js', '.jsx', '.mjs', '.ts', '.tsx', '.d.ts'] },
     },
   },
+  ignorePatterns: ['!.*.json'],
   overrides: [
     ...basic.overrides,
     {
