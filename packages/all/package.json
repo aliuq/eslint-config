@@ -16,7 +16,7 @@
     "@aliuq/eslint-config-vue": "workspace:*"
   },
   "devDependencies": {
-    "eslint": "^8.12.0"
+    "eslint": "^8.14.0"
   },
   "publishConfig": {
     "access": "public"
