@@ -2,9 +2,9 @@
   "name": "@aliuq/eslint-config",
   "version": "0.0.3",
   "description": "",
-  "keywords": [],
-  "license": "MIT",
   "author": "LiuQ <liuq@bilishare.com> (https://github.com/aliuq/)",
+  "license": "MIT",
+  "keywords": [],
   "main": "index.js",
   "files": [
     "index.js"
@@ -16,7 +16,7 @@
     "@aliuq/eslint-config-vue": "workspace:*"
   },
   "devDependencies": {
-    "eslint": "^8.14.0"
+    "eslint": "^8.17.0"
   },
   "publishConfig": {
     "access": "public"
