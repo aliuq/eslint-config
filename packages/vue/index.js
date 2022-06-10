@@ -18,7 +18,6 @@ module.exports = {
     '@aliuq/eslint-config-ts',
   ],
   rules: {
-    'vue/max-attributes-per-line': 'off',
     'vue/no-v-html': 'off',
     'vue/require-prop-types': 'off',
     'vue/require-default-prop': 'off',
