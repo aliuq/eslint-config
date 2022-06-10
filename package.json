@@ -1,6 +1,6 @@
 {
   "name": "@aliuq/eslint-config-monorepo",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "private": true,
   "packageManager": "pnpm@6.32.6",
   "author": "LiuQ <liuq@bilishare.com> (https://github.com/aliuq/)",
